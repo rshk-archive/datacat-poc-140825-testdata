@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ roads-00.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1247650.77</gml:X><gml:Y>5771725.77</gml:Y></gml:coord>
+      <gml:coord><gml:X>1249325.78</gml:X><gml:Y>5897055.5</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+                                                                                                                             
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.0">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247650.8,5771863.1 1247652.21,5771849.56 1247657.9,5771834.59 1247702.61,5771770.69 1247726.0,5771758.73 1247772.81,5771756.99 1247810.88,5771727.12 1247842.41,5771728.76 1247878.25,5771725.77</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>37637727</ogr:OSM_ID>
+      <ogr:NAME>Vecchia strada della Fricca</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>gravel</ogr:SURFACE>
+      <ogr:WIDTH>3</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.1">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247651.36,5771926.63 1247650.77,5771900.44 1247650.8,5771863.1</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>37637726</ogr:OSM_ID>
+      <ogr:NAME>Vecchia strada della Fricca</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>gravel</ogr:SURFACE>
+      <ogr:WIDTH>3</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.2">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247906.04,5874358.14 1247893.24,5874362.89 1247870.84,5874374.09 1247853.29,5874387.0 1247837.92,5874410.41 1247821.35,5874428.45 1247809.89,5874446.49 1247783.32,5874468.67 1247751.38,5874489.14 1247738.47,5874507.91 1247729.25,5874510.45 1247720.67,5874512.54 1247702.15,5874524.01 1247692.15,5874543.51 1247678.99,5874563.74 1247666.07,5874579.1</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>237984560</ogr:OSM_ID>
+      <ogr:NAME>Panoramaweg</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>ground</ogr:SURFACE>
+      <ogr:WIDTH>1.5</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.3">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247673.26,5884919.67 1247688.33,5884915.55 1247711.41,5884915.23 1247730.11,5884912.42 1247747.86,5884904.36</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>34231448</ogr:OSM_ID>
+      <ogr:NAME>St. Katharina StraÃe / Via Santa Caterina</ogr:NAME>
+      <ogr:HIGHWAY>residential</ogr:HIGHWAY>
+      <ogr:SURFACE>asphalt</ogr:SURFACE>
+      <ogr:WIDTH>2</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.4">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247689.37,5777238.35 1247691.48,5777209.5 1247679.23,5777152.68 1247673.6,5777133.19 1247697.68,5777124.62</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>181479846</ogr:OSM_ID>
+      <ogr:NAME>Strada dei Catalani</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>gravel</ogr:SURFACE>
+      <ogr:WIDTH>2</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.5">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247697.68,5777124.62 1247714.76,5777121.03 1247724.61,5777118.35 1247743.19,5777116.4 1247756.55,5777109.41 1247768.15,5777098.92 1247775.33,5777087.87 1247784.91,5777075.05 1247797.17,5777066.93 1247812.7,5777060.95 1247832.39,5777045.78 1247842.25,5777033.79 1247853.26,5777017.48 1247861.5,5776996.81 1247855.72,5776987.06 1247803.98,5776944.79 1247768.03,5776872.78 1247746.66,5776851.81 1247717.74,5776830.15 1247700.13,5776823.94 1247690.58,5776819.47 1247686.7,5776812.01 1247688.49,5776803.03 1247692.96,5776794.69 1247712.81,5776781.07 1247730.54,5776772.34 1247757.16,5776745.42 1247764.24,5776738.22 1247802.33,5776721.45 1247840.45,5776709.89 1247862.85,5776711.38 1247897.2,5776710.19 1247914.93,5776700.1 1247943.65,5776675.43 1247996.91,5776625.13 1248083.78,5776509.63 1248104.63,5776438.36 1248127.13,5776380.52 1248145.51,5776309.74 1248195.35,5776195.26 1248206.52,5776180.04 1248241.76,5776139.09 1248282.77,5776068.53 1248298.21,5776035.76 1248305.57,5776019.16 1248322.6,5775979.14 1248343.34,5775946.91 1248383.87,5775916.96 1248408.76,5775884.17 1248421.77,5775852.3 1248431.16,5775797.68 1248433.74,5775780.99 1248438.53,5775766.9 1248451.96,5775756.76 1248460.92,5775756.76 1248470.3,5775759.27 1248492.35,5775791.59 1248522.16,5775868.09 1248549.9,5775903.65 1248561.93,5775949.43 1248593.92,5776059.66 1248620.34,5776138.27 1248662.47,5776218.85 1248688.83,5776268.46 1248716.0,5776319.76 1248735.72,5776366.71 1248746.72,5776389.06 1248780.81,5776429.36 1248790.36,5776441.87 1248800.0,5776452.97 1248805.68,5776458.34 1248815.94,5776458.46 1248826.82,5776450.36 1248841.1,5776430.62 1248851.63,5776412.44 1248861.44,5776392.15 1248868.71,5776375.14 1248891.79,5776362.1 1248924.25,5776346.59 1248971.99,5776316.39 1249001.02,5776303.51 1249046.36,5776274.19 1249065.25,5776260.72 1249075.69,5776248.18 1249084.33,5776231.43 1249093.69,5776201.91 1249107.53,5776156.59 1249118.25,5776100.0 1249136.13,5776063.64 1249163.23,5776016.54 1249190.93,5775935.47 1249223.97,5775830.85 1249256.08,5775744.18 1249270.96,5775706.95 1249289.17,5775679.17 1249304.1,5775667.24 1249325.78,5775655.55</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>181479852</ogr:OSM_ID>
+      <ogr:NAME>Strada dei Catalani</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>gravel</ogr:SURFACE>
+      <ogr:WIDTH>2</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.6">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1248503.22,5896503.56 1248453.82,5896570.17 1248320.48,5896655.5 1248302.35,5896704.57 1248298.09,5896750.43 1248265.02,5896785.63 1248242.63,5896796.3 1248202.08,5896867.77 1248121.63,5896947.46 1248045.29,5897050.17 1248034.63,5897055.5 1248022.89,5897049.1 1248021.82,5897037.36 1248025.02,5897002.17 1248026.09,5896980.83 1248013.29,5896960.57 1248006.88,5896947.77 1248012.22,5896921.09 1248016.49,5896895.5 1248011.55,5896876.13 1247986.62,5896867.77 1247957.29,5896867.57 1247945.02,5896852.83 1247920.49,5896828.31 1247889.55,5896812.3 1247882.08,5896788.83 1247877.82,5896762.17 1247868.22,5896751.5 1247855.42,5896751.5 1247855.42,5896773.91 1247855.42,5896802.7 1247869.28,5896844.3 1247870.35,5896865.64 1247858.62,5896896.57 1247828.75,5896916.84 1247803.92,5896924.42 1247774.98,5896922.18 1247755.16,5896920.04 1247737.02,5896909.37 1247722.73,5896886.31 1247708.23,5896858.17</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>43664353</ogr:OSM_ID>
+      <ogr:NAME>Frazione Talle Di Sopra</ogr:NAME>
+      <ogr:HIGHWAY>unclassified</ogr:HIGHWAY>
+      <ogr:SURFACE>asphalt</ogr:SURFACE>
+      <ogr:WIDTH>4.5</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.7">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247730.54,5776772.34 1247756.99,5776792.48 1247788.28,5776799.54 1247808.41,5776827.69 1247831.93,5776855.14 1247841.74,5776880.63 1247855.46,5776900.22 1247877.71,5776904.19 1247898.59,5776906.12 1247924.07,5776906.12 1247943.68,5776902.19 1247988.77,5776919.83 1248006.41,5776941.39 1248026.02,5776978.65 1248032.86,5776988.42 1248039.73,5776998.24 1248031.9,5777047.26 1248035.82,5777090.38 1248045.62,5777123.72 1248047.58,5777143.31 1248037.78,5777176.65 1248029.94,5777219.77 1248020.13,5777253.09 1248004.45,5777276.62 1248024.05,5777311.91 1248043.65,5777345.24 1248055.42,5777380.53 1248053.46,5777429.53 1248043.65,5777474.63 1248039.73,5777537.36 1248042.48,5777571.18 1248045.62,5777609.88 1248054.05,5777673.72 1248059.59,5777737.48 1248059.59,5777776.3 1248084.55,5777804.02 1248123.36,5777842.84 1248176.91,5777895.86</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>166512319</ogr:OSM_ID>
+      <ogr:NAME>Val dei Tabacari</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>ground</ogr:SURFACE>
+      <ogr:WIDTH>2</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.8">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247906.04,5874358.14 1247891.22,5874357.52 1247879.43,5874362.06 1247864.2,5874354.43 1247851.49,5874364.96 1247831.0,5874359.69 1247816.86,5874368.59 1247801.26,5874361.51 1247785.66,5874364.41 1247771.88,5874358.43 1247789.38,5874333.03 1247786.48,5874324.34</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>237984558</ogr:OSM_ID>
+      <ogr:NAME>Panoramaweg</ogr:NAME>
+      <ogr:HIGHWAY>track</ogr:HIGHWAY>
+      <ogr:SURFACE>ground</ogr:SURFACE>
+      <ogr:WIDTH>1.5</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:roads_00 fid="roads_00.9">
+      <ogr:geometryProperty><gml:LineString srsName="EPSG:3785"><gml:coordinates>1247789.38,5874333.03 1247800.71,5874321.88 1247812.39,5874306.23 1247835.5,5874278.03 1247856.25,5874249.3 1247872.14,5874226.98</gml:coordinates></gml:LineString></ogr:geometryProperty>
+      <ogr:OSM_ID>237984562</ogr:OSM_ID>
+      <ogr:NAME>Panoramaweg</ogr:NAME>
+      <ogr:HIGHWAY>footway</ogr:HIGHWAY>
+      <ogr:SURFACE>ground</ogr:SURFACE>
+      <ogr:WIDTH>1</ogr:WIDTH>
+    </ogr:roads_00>
+  </gml:featureMember>
+</ogr:FeatureCollection>
